@@ -1,0 +1,1325 @@
+Source IP: 192.168.226.128
+Destination IP: 139.84.137.53
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 139.84.137.53
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 194.0.5.123
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 194.0.5.123
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.46.210.39
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.46.210.39
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:50362 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:50362 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:50362 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:50362 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:64207 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.226.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.226.1:64207 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'use.typekit.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'use.typekit.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'fonts.gstatic.com.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'fonts.gstatic.com.'" 
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'use-stls.adobe.com.edgesuite.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "172.217.160.163" 
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "2404:6800:4009:80a::2003" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https S
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33030 PA / Raw
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 SA / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'use-stls.adobe.com.edgesuite.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https S
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33030 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 SA / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https A
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https A
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https A
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https A
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.177
+Protocol: TCP
+Payload: TCP 192.168.226.128:51378 > 104.94.18.177:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.177
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.177:https > 192.168.226.128:51378 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'p.typekit.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'p.typekit.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'o.pki.goog.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'o.pki.goog.'" 
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'p.typekit.net-stls-v3.edgesuite.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'p.typekit.net-stls-v3.edgesuite.net.'" 
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https S
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'pki-goog.l.google.com.'" 
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'pki-goog.l.google.com.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:42488 > 172.217.160.163:http S
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 SA / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 A / Padding
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:http > 192.168.226.128:42488 SA / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:42488 > 172.217.160.163:http A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:42488 > 172.217.160.163:http PA / Raw
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:http > 192.168.226.128:42488 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 A / Padding
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'shavar.services.mozilla.com.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'shavar.services.mozilla.com.'" 
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https A
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'shavar.prod.mozaws.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'shavar.prod.mozaws.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 52.33.222.107
+Protocol: TCP
+Payload: TCP 192.168.226.128:41324 > 52.33.222.107:https S
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 104.94.18.187
+Protocol: TCP
+Payload: TCP 192.168.226.128:60792 > 104.94.18.187:https PA / Raw
+--------------------------------------------------
+Source IP: 104.94.18.187
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 104.94.18.187:https > 192.168.226.128:60792 A / Padding
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:http > 192.168.226.128:42488 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:42488 > 172.217.160.163:http A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https PA / Raw
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https PA / Raw
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 A / Padding
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https A
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https PA / Raw
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 A / Padding
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 192.168.226.2
+Protocol: UDP
+Payload: UDP / DNS Qry "b'shavar.services.mozilla.com.'" 
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 192.168.226.2
+Destination IP: 192.168.226.128
+Protocol: UDP
+Payload: UDP / DNS Ans "b'shavar.prod.mozaws.net.'" 
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 44.242.121.21
+Protocol: TCP
+Payload: TCP 192.168.226.128:46990 > 44.242.121.21:https S
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 172.217.160.163
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 172.217.160.163:https > 192.168.226.128:49014 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 172.217.160.163
+Protocol: TCP
+Payload: TCP 192.168.226.128:49014 > 172.217.160.163:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.226.128
+Destination IP: 170.187.249.89
+Protocol: TCP
+Payload: TCP 192.168.226.128:33028 > 170.187.249.89:https A
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
+Source IP: 170.187.249.89
+Destination IP: 192.168.226.128
+Protocol: TCP
+Payload: TCP 170.187.249.89:https > 192.168.226.128:33028 PA / Raw
+--------------------------------------------------
